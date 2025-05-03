@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\RecordInheritance\obj\Debug\net8.0\RecordInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\RecordInheritance\obj\Debug\net8.0\RecordInheritance.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\RecordInheritance\obj\Debug\net8.0\RecordInheritance.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\RecordInheritance\obj\Debug\net8.0\RecordInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\RecordInheritance\bin\Debug\net8.0\RecordInheritance.exe
+C:\Users\Алексей\OneDrive\Документы\C#\RecordInheritance\bin\Debug\net8.0\RecordInheritance.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\RecordInheritance\bin\Debug\net8.0\RecordInheritance.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\RecordInheritance\bin\Debug\net8.0\RecordInheritance.dll
+C:\Users\Алексей\OneDrive\Документы\C#\RecordInheritance\bin\Debug\net8.0\RecordInheritance.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\RecordInheritance\obj\Debug\net8.0\RecordInheritance.dll
+C:\Users\Алексей\OneDrive\Документы\C#\RecordInheritance\obj\Debug\net8.0\refint\RecordInheritance.dll
+C:\Users\Алексей\OneDrive\Документы\C#\RecordInheritance\obj\Debug\net8.0\RecordInheritance.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\RecordInheritance\obj\Debug\net8.0\RecordInheritance.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\RecordInheritance\obj\Debug\net8.0\ref\RecordInheritance.dll

@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleMultiThreadApp\bin\Debug\net9.0\SimpleMultiThreadApp.exe
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleMultiThreadApp\bin\Debug\net9.0\SimpleMultiThreadApp.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleMultiThreadApp\bin\Debug\net9.0\SimpleMultiThreadApp.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleMultiThreadApp\bin\Debug\net9.0\SimpleMultiThreadApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleMultiThreadApp\bin\Debug\net9.0\SimpleMultiThreadApp.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleMultiThreadApp\obj\Debug\net9.0\SimpleMultiThreadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleMultiThreadApp\obj\Debug\net9.0\SimpleMultiThreadApp.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleMultiThreadApp\obj\Debug\net9.0\SimpleMultiThreadApp.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleMultiThreadApp\obj\Debug\net9.0\SimpleMultiThreadApp.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleMultiThreadApp\obj\Debug\net9.0\SimpleMultiThreadApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleMultiThreadApp\obj\Debug\net9.0\refint\SimpleMultiThreadApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleMultiThreadApp\obj\Debug\net9.0\SimpleMultiThreadApp.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleMultiThreadApp\obj\Debug\net9.0\SimpleMultiThreadApp.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleMultiThreadApp\obj\Debug\net9.0\ref\SimpleMultiThreadApp.dll

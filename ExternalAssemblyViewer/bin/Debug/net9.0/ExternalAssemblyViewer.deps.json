@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ExternalAssemblyViewer/1.0.0": {
+        "dependencies": {
+          "CarLibrary": "1.0.0.1"
+        },
+        "runtime": {
+          "ExternalAssemblyViewer.dll": {}
+        }
+      },
+      "CarLibrary/1.0.0.1": {
+        "runtime": {
+          "lib/net6.0/CarLibrary.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExternalAssemblyViewer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarLibrary/1.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0cD75VUfakkw7+VtvBY6aOKiOOZLbYZY2zNnQl0tIIVno9/M40/cwTOahB6Z289DK/D4EZzBAM0ymVXFRkk4RQ==",
+      "path": "carlibrary/1.0.0.1",
+      "hashPath": "carlibrary.1.0.0.1.nupkg.sha512"
+    }
+  }
+}

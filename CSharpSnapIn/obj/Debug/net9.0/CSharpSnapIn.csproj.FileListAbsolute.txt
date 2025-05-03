@@ -1,0 +1,15 @@
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpSnapIn\obj\Debug\net9.0\CSharpSnapIn.csproj.AssemblyReference.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpSnapIn\obj\Debug\net9.0\CSharpSnapIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpSnapIn\obj\Debug\net9.0\CSharpSnapIn.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpSnapIn\obj\Debug\net9.0\CSharpSnapIn.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpSnapIn\obj\Debug\net9.0\CSharpSnapIn.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpSnapIn\bin\Debug\net9.0\CSharpSnapIn.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpSnapIn\bin\Debug\net9.0\CSharpSnapIn.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpSnapIn\bin\Debug\net9.0\CSharpSnapIn.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpSnapIn\bin\Debug\net9.0\CommonSnappableTypes.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpSnapIn\bin\Debug\net9.0\CommonSnappableTypes.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpSnapIn\obj\Debug\net9.0\CSharpSn.CDE5820E.Up2Date
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpSnapIn\obj\Debug\net9.0\CSharpSnapIn.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpSnapIn\obj\Debug\net9.0\refint\CSharpSnapIn.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpSnapIn\obj\Debug\net9.0\CSharpSnapIn.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpSnapIn\obj\Debug\net9.0\ref\CSharpSnapIn.dll

@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\LinqOverArray\bin\Debug\net9.0\LinqOverArray.exe
+C:\Users\Алексей\OneDrive\Документы\C#\LinqOverArray\bin\Debug\net9.0\LinqOverArray.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\LinqOverArray\bin\Debug\net9.0\LinqOverArray.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\LinqOverArray\bin\Debug\net9.0\LinqOverArray.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LinqOverArray\bin\Debug\net9.0\LinqOverArray.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\LinqOverArray\obj\Debug\net9.0\LinqOverArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\LinqOverArray\obj\Debug\net9.0\LinqOverArray.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LinqOverArray\obj\Debug\net9.0\LinqOverArray.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\LinqOverArray\obj\Debug\net9.0\LinqOverArray.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LinqOverArray\obj\Debug\net9.0\LinqOverArray.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LinqOverArray\obj\Debug\net9.0\refint\LinqOverArray.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LinqOverArray\obj\Debug\net9.0\LinqOverArray.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\LinqOverArray\obj\Debug\net9.0\LinqOverArray.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LinqOverArray\obj\Debug\net9.0\ref\LinqOverArray.dll

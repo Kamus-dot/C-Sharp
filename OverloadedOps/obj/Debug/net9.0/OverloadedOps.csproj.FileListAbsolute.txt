@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\OverloadedOps\bin\Debug\net9.0\OverloadedOps.exe
+C:\Users\Алексей\OneDrive\Документы\C#\OverloadedOps\bin\Debug\net9.0\OverloadedOps.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\OverloadedOps\bin\Debug\net9.0\OverloadedOps.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\OverloadedOps\bin\Debug\net9.0\OverloadedOps.dll
+C:\Users\Алексей\OneDrive\Документы\C#\OverloadedOps\bin\Debug\net9.0\OverloadedOps.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\OverloadedOps\obj\Debug\net9.0\OverloadedOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\OverloadedOps\obj\Debug\net9.0\OverloadedOps.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\OverloadedOps\obj\Debug\net9.0\OverloadedOps.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\OverloadedOps\obj\Debug\net9.0\OverloadedOps.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\OverloadedOps\obj\Debug\net9.0\OverloadedOps.dll
+C:\Users\Алексей\OneDrive\Документы\C#\OverloadedOps\obj\Debug\net9.0\refint\OverloadedOps.dll
+C:\Users\Алексей\OneDrive\Документы\C#\OverloadedOps\obj\Debug\net9.0\OverloadedOps.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\OverloadedOps\obj\Debug\net9.0\OverloadedOps.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\OverloadedOps\obj\Debug\net9.0\ref\OverloadedOps.dll

@@ -1,0 +1,17 @@
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\bin\Debug\net9.0\ExternalAssemblyViewer.exe
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\bin\Debug\net9.0\ExternalAssemblyViewer.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\bin\Debug\net9.0\ExternalAssemblyViewer.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\bin\Debug\net9.0\ExternalAssemblyViewer.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\bin\Debug\net9.0\ExternalAssemblyViewer.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\obj\Debug\net9.0\ExternalAssemblyViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\obj\Debug\net9.0\ExternalAssemblyViewer.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\obj\Debug\net9.0\ExternalAssemblyViewer.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\obj\Debug\net9.0\ExternalAssemblyViewer.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\obj\Debug\net9.0\ExternalAssemblyViewer.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\obj\Debug\net9.0\refint\ExternalAssemblyViewer.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\obj\Debug\net9.0\ExternalAssemblyViewer.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\obj\Debug\net9.0\ExternalAssemblyViewer.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\obj\Debug\net9.0\ref\ExternalAssemblyViewer.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\bin\Debug\net9.0\CarLibrary.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\obj\Debug\net9.0\ExternalAssemblyViewer.csproj.AssemblyReference.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ExternalAssemblyViewer\obj\Debug\net9.0\External.36F2834B.Up2Date

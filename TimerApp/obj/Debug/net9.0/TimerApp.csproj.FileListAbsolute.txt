@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\TimerApp\bin\Debug\net9.0\TimerApp.exe
+C:\Users\Алексей\OneDrive\Документы\C#\TimerApp\bin\Debug\net9.0\TimerApp.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\TimerApp\bin\Debug\net9.0\TimerApp.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\TimerApp\bin\Debug\net9.0\TimerApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\TimerApp\bin\Debug\net9.0\TimerApp.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\TimerApp\obj\Debug\net9.0\TimerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\TimerApp\obj\Debug\net9.0\TimerApp.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\TimerApp\obj\Debug\net9.0\TimerApp.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\TimerApp\obj\Debug\net9.0\TimerApp.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\TimerApp\obj\Debug\net9.0\TimerApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\TimerApp\obj\Debug\net9.0\refint\TimerApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\TimerApp\obj\Debug\net9.0\TimerApp.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\TimerApp\obj\Debug\net9.0\TimerApp.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\TimerApp\obj\Debug\net9.0\ref\TimerApp.dll

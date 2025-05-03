@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithObservableCollections\bin\Debug\net9.0\FunWithObservableCollections.exe
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithObservableCollections\bin\Debug\net9.0\FunWithObservableCollections.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithObservableCollections\bin\Debug\net9.0\FunWithObservableCollections.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithObservableCollections\bin\Debug\net9.0\FunWithObservableCollections.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithObservableCollections\bin\Debug\net9.0\FunWithObservableCollections.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithObservableCollections\obj\Debug\net9.0\FunWithObservableCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithObservableCollections\obj\Debug\net9.0\FunWithObservableCollections.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithObservableCollections\obj\Debug\net9.0\FunWithObservableCollections.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithObservableCollections\obj\Debug\net9.0\FunWithObservableCollections.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithObservableCollections\obj\Debug\net9.0\FunWithObservableCollections.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithObservableCollections\obj\Debug\net9.0\refint\FunWithObservableCollections.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithObservableCollections\obj\Debug\net9.0\FunWithObservableCollections.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithObservableCollections\obj\Debug\net9.0\FunWithObservableCollections.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithObservableCollections\obj\Debug\net9.0\ref\FunWithObservableCollections.dll

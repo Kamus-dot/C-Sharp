@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\RoundTrip\bin\Debug\net9.0\RoundTrip.exe
+C:\Users\Алексей\OneDrive\Документы\C#\RoundTrip\bin\Debug\net9.0\RoundTrip.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\RoundTrip\bin\Debug\net9.0\RoundTrip.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\RoundTrip\bin\Debug\net9.0\RoundTrip.dll
+C:\Users\Алексей\OneDrive\Документы\C#\RoundTrip\bin\Debug\net9.0\RoundTrip.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\RoundTrip\obj\Debug\net9.0\RoundTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\RoundTrip\obj\Debug\net9.0\RoundTrip.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\RoundTrip\obj\Debug\net9.0\RoundTrip.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\RoundTrip\obj\Debug\net9.0\RoundTrip.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\RoundTrip\obj\Debug\net9.0\RoundTrip.dll
+C:\Users\Алексей\OneDrive\Документы\C#\RoundTrip\obj\Debug\net9.0\refint\RoundTrip.dll
+C:\Users\Алексей\OneDrive\Документы\C#\RoundTrip\obj\Debug\net9.0\RoundTrip.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\RoundTrip\obj\Debug\net9.0\RoundTrip.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\RoundTrip\obj\Debug\net9.0\ref\RoundTrip.dll

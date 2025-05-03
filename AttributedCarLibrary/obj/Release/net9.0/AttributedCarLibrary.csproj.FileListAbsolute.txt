@@ -1,0 +1,11 @@
+C:\Users\Алексей\OneDrive\Документы\C#\AttributedCarLibrary\bin\Release\net9.0\AttributedCarLibrary.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\AttributedCarLibrary\bin\Release\net9.0\AttributedCarLibrary.dll
+C:\Users\Алексей\OneDrive\Документы\C#\AttributedCarLibrary\bin\Release\net9.0\AttributedCarLibrary.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\AttributedCarLibrary\obj\Release\net9.0\AttributedCarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\AttributedCarLibrary\obj\Release\net9.0\AttributedCarLibrary.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\AttributedCarLibrary\obj\Release\net9.0\AttributedCarLibrary.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\AttributedCarLibrary\obj\Release\net9.0\AttributedCarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\AttributedCarLibrary\obj\Release\net9.0\AttributedCarLibrary.dll
+C:\Users\Алексей\OneDrive\Документы\C#\AttributedCarLibrary\obj\Release\net9.0\refint\AttributedCarLibrary.dll
+C:\Users\Алексей\OneDrive\Документы\C#\AttributedCarLibrary\obj\Release\net9.0\AttributedCarLibrary.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\AttributedCarLibrary\obj\Release\net9.0\ref\AttributedCarLibrary.dll

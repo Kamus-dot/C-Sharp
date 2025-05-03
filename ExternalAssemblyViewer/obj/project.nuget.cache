@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6FiOW4SRQFk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Алексей\\OneDrive\\Документы\\C#\\ExternalAssemblyViewer\\ExternalAssemblyViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Алексей\\.nuget\\packages\\carlibrary\\1.0.0.1\\carlibrary.1.0.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

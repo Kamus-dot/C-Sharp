@@ -1,0 +1,14 @@
+C:\Users\Алексей\Documents\C#\Solvation\bin\Debug\net8.0\Solvation.exe
+C:\Users\Алексей\Documents\C#\Solvation\bin\Debug\net8.0\Solvation.deps.json
+C:\Users\Алексей\Documents\C#\Solvation\bin\Debug\net8.0\Solvation.runtimeconfig.json
+C:\Users\Алексей\Documents\C#\Solvation\bin\Debug\net8.0\Solvation.dll
+C:\Users\Алексей\Documents\C#\Solvation\bin\Debug\net8.0\Solvation.pdb
+C:\Users\Алексей\Documents\C#\Solvation\obj\Debug\net8.0\Solvation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Documents\C#\Solvation\obj\Debug\net8.0\Solvation.AssemblyInfoInputs.cache
+C:\Users\Алексей\Documents\C#\Solvation\obj\Debug\net8.0\Solvation.AssemblyInfo.cs
+C:\Users\Алексей\Documents\C#\Solvation\obj\Debug\net8.0\Solvation.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Documents\C#\Solvation\obj\Debug\net8.0\Solvation.dll
+C:\Users\Алексей\Documents\C#\Solvation\obj\Debug\net8.0\refint\Solvation.dll
+C:\Users\Алексей\Documents\C#\Solvation\obj\Debug\net8.0\Solvation.pdb
+C:\Users\Алексей\Documents\C#\Solvation\obj\Debug\net8.0\Solvation.genruntimeconfig.cache
+C:\Users\Алексей\Documents\C#\Solvation\obj\Debug\net8.0\ref\Solvation.dll

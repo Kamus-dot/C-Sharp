@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\AutoProps\bin\Debug\net8.0\AutoProps.exe
+C:\Users\Алексей\OneDrive\Документы\C#\AutoProps\bin\Debug\net8.0\AutoProps.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\AutoProps\bin\Debug\net8.0\AutoProps.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\AutoProps\bin\Debug\net8.0\AutoProps.dll
+C:\Users\Алексей\OneDrive\Документы\C#\AutoProps\bin\Debug\net8.0\AutoProps.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\AutoProps\obj\Debug\net8.0\AutoProps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\AutoProps\obj\Debug\net8.0\AutoProps.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\AutoProps\obj\Debug\net8.0\AutoProps.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\AutoProps\obj\Debug\net8.0\AutoProps.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\AutoProps\obj\Debug\net8.0\AutoProps.dll
+C:\Users\Алексей\OneDrive\Документы\C#\AutoProps\obj\Debug\net8.0\refint\AutoProps.dll
+C:\Users\Алексей\OneDrive\Документы\C#\AutoProps\obj\Debug\net8.0\AutoProps.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\AutoProps\obj\Debug\net8.0\AutoProps.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\AutoProps\obj\Debug\net8.0\ref\AutoProps.dll

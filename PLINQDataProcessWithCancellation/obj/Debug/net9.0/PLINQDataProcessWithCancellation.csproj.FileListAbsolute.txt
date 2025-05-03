@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\PLINQDataProcessWithCancellation\bin\Debug\net9.0\PLINQDataProcessWithCancellation.exe
+C:\Users\Алексей\OneDrive\Документы\C#\PLINQDataProcessWithCancellation\bin\Debug\net9.0\PLINQDataProcessWithCancellation.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\PLINQDataProcessWithCancellation\bin\Debug\net9.0\PLINQDataProcessWithCancellation.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\PLINQDataProcessWithCancellation\bin\Debug\net9.0\PLINQDataProcessWithCancellation.dll
+C:\Users\Алексей\OneDrive\Документы\C#\PLINQDataProcessWithCancellation\bin\Debug\net9.0\PLINQDataProcessWithCancellation.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\PLINQDataProcessWithCancellation\obj\Debug\net9.0\PLINQDataProcessWithCancellation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\PLINQDataProcessWithCancellation\obj\Debug\net9.0\PLINQDataProcessWithCancellation.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\PLINQDataProcessWithCancellation\obj\Debug\net9.0\PLINQDataProcessWithCancellation.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\PLINQDataProcessWithCancellation\obj\Debug\net9.0\PLINQDataProcessWithCancellation.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\PLINQDataProcessWithCancellation\obj\Debug\net9.0\PLINQDataProcessWithCancellation.dll
+C:\Users\Алексей\OneDrive\Документы\C#\PLINQDataProcessWithCancellation\obj\Debug\net9.0\refint\PLINQDataProcessWithCancellation.dll
+C:\Users\Алексей\OneDrive\Документы\C#\PLINQDataProcessWithCancellation\obj\Debug\net9.0\PLINQDataProcessWithCancellation.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\PLINQDataProcessWithCancellation\obj\Debug\net9.0\PLINQDataProcessWithCancellation.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\PLINQDataProcessWithCancellation\obj\Debug\net9.0\ref\PLINQDataProcessWithCancellation.dll

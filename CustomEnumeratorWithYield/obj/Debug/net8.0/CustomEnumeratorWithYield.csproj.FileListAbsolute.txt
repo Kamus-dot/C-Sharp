@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumeratorWithYield\bin\Debug\net8.0\CustomEnumeratorWithYield.exe
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumeratorWithYield\bin\Debug\net8.0\CustomEnumeratorWithYield.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumeratorWithYield\bin\Debug\net8.0\CustomEnumeratorWithYield.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumeratorWithYield\bin\Debug\net8.0\CustomEnumeratorWithYield.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumeratorWithYield\bin\Debug\net8.0\CustomEnumeratorWithYield.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumeratorWithYield\obj\Debug\net8.0\refint\CustomEnumeratorWithYield.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumeratorWithYield\obj\Debug\net8.0\ref\CustomEnumeratorWithYield.dll

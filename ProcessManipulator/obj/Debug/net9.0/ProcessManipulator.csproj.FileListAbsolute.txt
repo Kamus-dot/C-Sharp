@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessManipulator\bin\Debug\net9.0\ProcessManipulator.exe
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessManipulator\bin\Debug\net9.0\ProcessManipulator.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessManipulator\bin\Debug\net9.0\ProcessManipulator.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessManipulator\bin\Debug\net9.0\ProcessManipulator.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessManipulator\bin\Debug\net9.0\ProcessManipulator.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessManipulator\obj\Debug\net9.0\ProcessManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessManipulator\obj\Debug\net9.0\ProcessManipulator.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessManipulator\obj\Debug\net9.0\ProcessManipulator.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessManipulator\obj\Debug\net9.0\ProcessManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessManipulator\obj\Debug\net9.0\ProcessManipulator.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessManipulator\obj\Debug\net9.0\refint\ProcessManipulator.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessManipulator\obj\Debug\net9.0\ProcessManipulator.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessManipulator\obj\Debug\net9.0\ProcessManipulator.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessManipulator\obj\Debug\net9.0\ref\ProcessManipulator.dll

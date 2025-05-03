@@ -1,0 +1,15 @@
+C:\Users\Алексей\OneDrive\Документы\C#\VBSnapIn\obj\Debug\net9.0\VBSnapIn.vbproj.AssemblyReference.cache
+C:\Users\Алексей\OneDrive\Документы\C#\VBSnapIn\obj\Debug\net9.0\VBSnapIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\VBSnapIn\obj\Debug\net9.0\VBSnapIn.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\VBSnapIn\obj\Debug\net9.0\VBSnapIn.AssemblyInfo.vb
+C:\Users\Алексей\OneDrive\Документы\C#\VBSnapIn\obj\Debug\net9.0\VBSnapIn.vbproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\VBSnapIn\bin\Debug\net9.0\VBSnapIn.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\VBSnapIn\bin\Debug\net9.0\VBSnapIn.dll
+C:\Users\Алексей\OneDrive\Документы\C#\VBSnapIn\bin\Debug\net9.0\VBSnapIn.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\VBSnapIn\bin\Debug\net9.0\CommonSnappableTypes.dll
+C:\Users\Алексей\OneDrive\Документы\C#\VBSnapIn\bin\Debug\net9.0\CommonSnappableTypes.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\VBSnapIn\obj\Debug\net9.0\VBSnapIn.vbproj.Up2Date
+C:\Users\Алексей\OneDrive\Документы\C#\VBSnapIn\obj\Debug\net9.0\VBSnapIn.dll
+C:\Users\Алексей\OneDrive\Документы\C#\VBSnapIn\obj\Debug\net9.0\refint\VBSnapIn.dll
+C:\Users\Алексей\OneDrive\Документы\C#\VBSnapIn\obj\Debug\net9.0\VBSnapIn.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\VBSnapIn\obj\Debug\net9.0\ref\VBSnapIn.dll

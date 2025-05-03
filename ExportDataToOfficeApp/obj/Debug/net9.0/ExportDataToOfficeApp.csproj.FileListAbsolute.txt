@@ -1,0 +1,17 @@
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\obj\Debug\net9.0\ExportDataToOfficeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\obj\Debug\net9.0\ExportDataToOfficeApp.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\obj\Debug\net9.0\ExportDataToOfficeApp.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\obj\Debug\net9.0\ExportDataToOfficeApp.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\bin\Debug\net9.0\ExportDataToOfficeApp.exe
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\bin\Debug\net9.0\ExportDataToOfficeApp.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\bin\Debug\net9.0\ExportDataToOfficeApp.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\bin\Debug\net9.0\ExportDataToOfficeApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\bin\Debug\net9.0\ExportDataToOfficeApp.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\obj\Debug\net9.0\ExportDataToOfficeApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\obj\Debug\net9.0\refint\ExportDataToOfficeApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\obj\Debug\net9.0\ExportDataToOfficeApp.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\obj\Debug\net9.0\ExportDataToOfficeApp.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\obj\Debug\net9.0\ref\ExportDataToOfficeApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\obj\Debug\net9.0\Interop.ExcelAdaptorLib.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\obj\Debug\net9.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ExportDataToOfficeApp\obj\Debug\net9.0\ExportDataToOfficeApp.csproj.ResolveComReference.cache

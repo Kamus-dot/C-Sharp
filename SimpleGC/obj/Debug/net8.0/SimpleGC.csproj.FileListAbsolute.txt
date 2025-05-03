@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleGC\bin\Debug\net8.0\SimpleGC.exe
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleGC\bin\Debug\net8.0\SimpleGC.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleGC\bin\Debug\net8.0\SimpleGC.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleGC\bin\Debug\net8.0\SimpleGC.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleGC\bin\Debug\net8.0\SimpleGC.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleGC\obj\Debug\net8.0\SimpleGC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleGC\obj\Debug\net8.0\SimpleGC.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleGC\obj\Debug\net8.0\SimpleGC.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleGC\obj\Debug\net8.0\SimpleGC.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleGC\obj\Debug\net8.0\SimpleGC.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleGC\obj\Debug\net8.0\refint\SimpleGC.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleGC\obj\Debug\net8.0\SimpleGC.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleGC\obj\Debug\net8.0\SimpleGC.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleGC\obj\Debug\net8.0\ref\SimpleGC.dll

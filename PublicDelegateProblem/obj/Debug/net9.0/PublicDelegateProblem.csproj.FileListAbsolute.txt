@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\PublicDelegateProblem\bin\Debug\net9.0\PublicDelegateProblem.exe
+C:\Users\Алексей\OneDrive\Документы\C#\PublicDelegateProblem\bin\Debug\net9.0\PublicDelegateProblem.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\PublicDelegateProblem\bin\Debug\net9.0\PublicDelegateProblem.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\PublicDelegateProblem\bin\Debug\net9.0\PublicDelegateProblem.dll
+C:\Users\Алексей\OneDrive\Документы\C#\PublicDelegateProblem\bin\Debug\net9.0\PublicDelegateProblem.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\PublicDelegateProblem\obj\Debug\net9.0\PublicDelegateProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\PublicDelegateProblem\obj\Debug\net9.0\PublicDelegateProblem.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\PublicDelegateProblem\obj\Debug\net9.0\PublicDelegateProblem.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\PublicDelegateProblem\obj\Debug\net9.0\PublicDelegateProblem.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\PublicDelegateProblem\obj\Debug\net9.0\PublicDelegateProblem.dll
+C:\Users\Алексей\OneDrive\Документы\C#\PublicDelegateProblem\obj\Debug\net9.0\refint\PublicDelegateProblem.dll
+C:\Users\Алексей\OneDrive\Документы\C#\PublicDelegateProblem\obj\Debug\net9.0\PublicDelegateProblem.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\PublicDelegateProblem\obj\Debug\net9.0\PublicDelegateProblem.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\PublicDelegateProblem\obj\Debug\net9.0\ref\PublicDelegateProblem.dll

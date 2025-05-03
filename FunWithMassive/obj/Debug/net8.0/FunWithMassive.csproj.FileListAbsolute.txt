@@ -1,0 +1,14 @@
+C:\Users\Алексей\Documents\C#\FunWithMassive\bin\Debug\net8.0\FunWithMassive.exe
+C:\Users\Алексей\Documents\C#\FunWithMassive\bin\Debug\net8.0\FunWithMassive.deps.json
+C:\Users\Алексей\Documents\C#\FunWithMassive\bin\Debug\net8.0\FunWithMassive.runtimeconfig.json
+C:\Users\Алексей\Documents\C#\FunWithMassive\bin\Debug\net8.0\FunWithMassive.dll
+C:\Users\Алексей\Documents\C#\FunWithMassive\bin\Debug\net8.0\FunWithMassive.pdb
+C:\Users\Алексей\Documents\C#\FunWithMassive\obj\Debug\net8.0\FunWithMassive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Documents\C#\FunWithMassive\obj\Debug\net8.0\FunWithMassive.AssemblyInfoInputs.cache
+C:\Users\Алексей\Documents\C#\FunWithMassive\obj\Debug\net8.0\FunWithMassive.AssemblyInfo.cs
+C:\Users\Алексей\Documents\C#\FunWithMassive\obj\Debug\net8.0\FunWithMassive.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Documents\C#\FunWithMassive\obj\Debug\net8.0\FunWithMassive.dll
+C:\Users\Алексей\Documents\C#\FunWithMassive\obj\Debug\net8.0\refint\FunWithMassive.dll
+C:\Users\Алексей\Documents\C#\FunWithMassive\obj\Debug\net8.0\FunWithMassive.pdb
+C:\Users\Алексей\Documents\C#\FunWithMassive\obj\Debug\net8.0\FunWithMassive.genruntimeconfig.cache
+C:\Users\Алексей\Documents\C#\FunWithMassive\obj\Debug\net8.0\ref\FunWithMassive.dll

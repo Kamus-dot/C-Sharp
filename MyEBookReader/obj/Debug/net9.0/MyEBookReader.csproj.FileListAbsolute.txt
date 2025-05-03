@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\MyEBookReader\bin\Debug\net9.0\MyEBookReader.exe
+C:\Users\Алексей\OneDrive\Документы\C#\MyEBookReader\bin\Debug\net9.0\MyEBookReader.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\MyEBookReader\bin\Debug\net9.0\MyEBookReader.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\MyEBookReader\bin\Debug\net9.0\MyEBookReader.dll
+C:\Users\Алексей\OneDrive\Документы\C#\MyEBookReader\bin\Debug\net9.0\MyEBookReader.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\MyEBookReader\obj\Debug\net9.0\MyEBookReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\MyEBookReader\obj\Debug\net9.0\MyEBookReader.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\MyEBookReader\obj\Debug\net9.0\MyEBookReader.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\MyEBookReader\obj\Debug\net9.0\MyEBookReader.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\MyEBookReader\obj\Debug\net9.0\MyEBookReader.dll
+C:\Users\Алексей\OneDrive\Документы\C#\MyEBookReader\obj\Debug\net9.0\refint\MyEBookReader.dll
+C:\Users\Алексей\OneDrive\Документы\C#\MyEBookReader\obj\Debug\net9.0\MyEBookReader.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\MyEBookReader\obj\Debug\net9.0\MyEBookReader.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\MyEBookReader\obj\Debug\net9.0\ref\MyEBookReader.dll

@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\CarDelegate\bin\Debug\net9.0\CarDelegate.exe
+C:\Users\Алексей\OneDrive\Документы\C#\CarDelegate\bin\Debug\net9.0\CarDelegate.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\CarDelegate\bin\Debug\net9.0\CarDelegate.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\CarDelegate\bin\Debug\net9.0\CarDelegate.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CarDelegate\bin\Debug\net9.0\CarDelegate.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CarDelegate\obj\Debug\net9.0\CarDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\CarDelegate\obj\Debug\net9.0\CarDelegate.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CarDelegate\obj\Debug\net9.0\CarDelegate.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\CarDelegate\obj\Debug\net9.0\CarDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CarDelegate\obj\Debug\net9.0\CarDelegate.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CarDelegate\obj\Debug\net9.0\refint\CarDelegate.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CarDelegate\obj\Debug\net9.0\CarDelegate.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CarDelegate\obj\Debug\net9.0\CarDelegate.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CarDelegate\obj\Debug\net9.0\ref\CarDelegate.dll

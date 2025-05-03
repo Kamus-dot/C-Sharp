@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\ObjectOverride\bin\Debug\net8.0\ObjectOverride.exe
+C:\Users\Алексей\OneDrive\Документы\C#\ObjectOverride\bin\Debug\net8.0\ObjectOverride.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\ObjectOverride\bin\Debug\net8.0\ObjectOverride.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\ObjectOverride\bin\Debug\net8.0\ObjectOverride.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ObjectOverride\bin\Debug\net8.0\ObjectOverride.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ObjectOverride\obj\Debug\net8.0\ObjectOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\ObjectOverride\obj\Debug\net8.0\ObjectOverride.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ObjectOverride\obj\Debug\net8.0\ObjectOverride.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\ObjectOverride\obj\Debug\net8.0\ObjectOverride.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ObjectOverride\obj\Debug\net8.0\ObjectOverride.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ObjectOverride\obj\Debug\net8.0\refint\ObjectOverride.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ObjectOverride\obj\Debug\net8.0\ObjectOverride.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ObjectOverride\obj\Debug\net8.0\ObjectOverride.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ObjectOverride\obj\Debug\net8.0\ref\ObjectOverride.dll

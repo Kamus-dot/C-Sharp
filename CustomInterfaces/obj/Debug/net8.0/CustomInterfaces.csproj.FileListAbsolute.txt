@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\CustomInterfaces\bin\Debug\net8.0\CustomInterfaces.exe
+C:\Users\Алексей\OneDrive\Документы\C#\CustomInterfaces\bin\Debug\net8.0\CustomInterfaces.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\CustomInterfaces\bin\Debug\net8.0\CustomInterfaces.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\CustomInterfaces\bin\Debug\net8.0\CustomInterfaces.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomInterfaces\bin\Debug\net8.0\CustomInterfaces.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomInterfaces\obj\Debug\net8.0\refint\CustomInterfaces.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomInterfaces\obj\Debug\net8.0\ref\CustomInterfaces.dll

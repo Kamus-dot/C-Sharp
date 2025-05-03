@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\refExample\bin\Debug\net9.0\refExample.exe
+C:\Users\Алексей\OneDrive\Документы\C#\refExample\bin\Debug\net9.0\refExample.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\refExample\bin\Debug\net9.0\refExample.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\refExample\bin\Debug\net9.0\refExample.dll
+C:\Users\Алексей\OneDrive\Документы\C#\refExample\bin\Debug\net9.0\refExample.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\refExample\obj\Debug\net9.0\refExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\refExample\obj\Debug\net9.0\refExample.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\refExample\obj\Debug\net9.0\refExample.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\refExample\obj\Debug\net9.0\refExample.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\refExample\obj\Debug\net9.0\refExample.dll
+C:\Users\Алексей\OneDrive\Документы\C#\refExample\obj\Debug\net9.0\refint\refExample.dll
+C:\Users\Алексей\OneDrive\Документы\C#\refExample\obj\Debug\net9.0\refExample.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\refExample\obj\Debug\net9.0\refExample.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\refExample\obj\Debug\net9.0\ref\refExample.dll

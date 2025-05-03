@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.exe
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumerator\obj\Debug\net8.0\refint\CustomEnumerator.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomEnumerator\obj\Debug\net8.0\ref\CustomEnumerator.dll

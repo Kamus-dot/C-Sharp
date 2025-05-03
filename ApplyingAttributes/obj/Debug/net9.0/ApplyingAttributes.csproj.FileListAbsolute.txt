@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\ApplyingAttributes\bin\Debug\net9.0\ApplyingAttributes.exe
+C:\Users\Алексей\OneDrive\Документы\C#\ApplyingAttributes\bin\Debug\net9.0\ApplyingAttributes.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\ApplyingAttributes\bin\Debug\net9.0\ApplyingAttributes.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\ApplyingAttributes\bin\Debug\net9.0\ApplyingAttributes.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ApplyingAttributes\bin\Debug\net9.0\ApplyingAttributes.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ApplyingAttributes\obj\Debug\net9.0\ApplyingAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\ApplyingAttributes\obj\Debug\net9.0\ApplyingAttributes.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ApplyingAttributes\obj\Debug\net9.0\ApplyingAttributes.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\ApplyingAttributes\obj\Debug\net9.0\ApplyingAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ApplyingAttributes\obj\Debug\net9.0\ApplyingAttributes.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ApplyingAttributes\obj\Debug\net9.0\refint\ApplyingAttributes.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ApplyingAttributes\obj\Debug\net9.0\ApplyingAttributes.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ApplyingAttributes\obj\Debug\net9.0\ApplyingAttributes.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ApplyingAttributes\obj\Debug\net9.0\ref\ApplyingAttributes.dll

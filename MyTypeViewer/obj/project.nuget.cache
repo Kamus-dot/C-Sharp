@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vu7ObPIqi6E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Алексей\\OneDrive\\Документы\\C#\\MyTypeViewer\\MyTypeViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Алексей\\.nuget\\packages\\carlibrary\\1.0.0.1\\carlibrary.1.0.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

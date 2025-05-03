@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\Employees\bin\Debug\net8.0\Employees.exe
+C:\Users\Алексей\OneDrive\Документы\C#\Employees\bin\Debug\net8.0\Employees.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\Employees\bin\Debug\net8.0\Employees.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\Employees\bin\Debug\net8.0\Employees.dll
+C:\Users\Алексей\OneDrive\Документы\C#\Employees\bin\Debug\net8.0\Employees.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\Employees\obj\Debug\net8.0\Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\Employees\obj\Debug\net8.0\Employees.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\Employees\obj\Debug\net8.0\Employees.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\Employees\obj\Debug\net8.0\Employees.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\Employees\obj\Debug\net8.0\Employees.dll
+C:\Users\Алексей\OneDrive\Документы\C#\Employees\obj\Debug\net8.0\refint\Employees.dll
+C:\Users\Алексей\OneDrive\Документы\C#\Employees\obj\Debug\net8.0\Employees.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\Employees\obj\Debug\net8.0\Employees.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\Employees\obj\Debug\net8.0\ref\Employees.dll

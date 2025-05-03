@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\ThreadPoolApp\bin\Debug\net9.0\ThreadPoolApp.exe
+C:\Users\Алексей\OneDrive\Документы\C#\ThreadPoolApp\bin\Debug\net9.0\ThreadPoolApp.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\ThreadPoolApp\bin\Debug\net9.0\ThreadPoolApp.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\ThreadPoolApp\bin\Debug\net9.0\ThreadPoolApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ThreadPoolApp\bin\Debug\net9.0\ThreadPoolApp.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ThreadPoolApp\obj\Debug\net9.0\ThreadPoolApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\ThreadPoolApp\obj\Debug\net9.0\ThreadPoolApp.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ThreadPoolApp\obj\Debug\net9.0\ThreadPoolApp.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\ThreadPoolApp\obj\Debug\net9.0\ThreadPoolApp.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ThreadPoolApp\obj\Debug\net9.0\ThreadPoolApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ThreadPoolApp\obj\Debug\net9.0\refint\ThreadPoolApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ThreadPoolApp\obj\Debug\net9.0\ThreadPoolApp.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ThreadPoolApp\obj\Debug\net9.0\ThreadPoolApp.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ThreadPoolApp\obj\Debug\net9.0\ref\ThreadPoolApp.dll

@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\CarEvents\bin\Debug\net9.0\CarEvents.exe
+C:\Users\Алексей\OneDrive\Документы\C#\CarEvents\bin\Debug\net9.0\CarEvents.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\CarEvents\bin\Debug\net9.0\CarEvents.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\CarEvents\bin\Debug\net9.0\CarEvents.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CarEvents\bin\Debug\net9.0\CarEvents.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CarEvents\obj\Debug\net9.0\CarEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\CarEvents\obj\Debug\net9.0\CarEvents.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CarEvents\obj\Debug\net9.0\CarEvents.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\CarEvents\obj\Debug\net9.0\CarEvents.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CarEvents\obj\Debug\net9.0\CarEvents.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CarEvents\obj\Debug\net9.0\refint\CarEvents.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CarEvents\obj\Debug\net9.0\CarEvents.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CarEvents\obj\Debug\net9.0\CarEvents.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CarEvents\obj\Debug\net9.0\ref\CarEvents.dll

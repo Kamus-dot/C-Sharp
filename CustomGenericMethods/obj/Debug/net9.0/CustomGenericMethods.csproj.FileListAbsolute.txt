@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\CustomGenericMethods\bin\Debug\net9.0\CustomGenericMethods.exe
+C:\Users\Алексей\OneDrive\Документы\C#\CustomGenericMethods\bin\Debug\net9.0\CustomGenericMethods.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\CustomGenericMethods\bin\Debug\net9.0\CustomGenericMethods.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\CustomGenericMethods\bin\Debug\net9.0\CustomGenericMethods.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomGenericMethods\bin\Debug\net9.0\CustomGenericMethods.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CustomGenericMethods\obj\Debug\net9.0\CustomGenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\CustomGenericMethods\obj\Debug\net9.0\CustomGenericMethods.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomGenericMethods\obj\Debug\net9.0\CustomGenericMethods.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\CustomGenericMethods\obj\Debug\net9.0\CustomGenericMethods.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomGenericMethods\obj\Debug\net9.0\CustomGenericMethods.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomGenericMethods\obj\Debug\net9.0\refint\CustomGenericMethods.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomGenericMethods\obj\Debug\net9.0\CustomGenericMethods.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CustomGenericMethods\obj\Debug\net9.0\CustomGenericMethods.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomGenericMethods\obj\Debug\net9.0\ref\CustomGenericMethods.dll

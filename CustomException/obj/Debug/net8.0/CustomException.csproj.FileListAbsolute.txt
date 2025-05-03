@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\CustomException\bin\Debug\net8.0\CustomException.exe
+C:\Users\Алексей\OneDrive\Документы\C#\CustomException\bin\Debug\net8.0\CustomException.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\CustomException\bin\Debug\net8.0\CustomException.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\CustomException\bin\Debug\net8.0\CustomException.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomException\bin\Debug\net8.0\CustomException.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CustomException\obj\Debug\net8.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\CustomException\obj\Debug\net8.0\CustomException.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomException\obj\Debug\net8.0\CustomException.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\CustomException\obj\Debug\net8.0\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomException\obj\Debug\net8.0\CustomException.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomException\obj\Debug\net8.0\refint\CustomException.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomException\obj\Debug\net8.0\CustomException.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CustomException\obj\Debug\net8.0\CustomException.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomException\obj\Debug\net8.0\ref\CustomException.dll

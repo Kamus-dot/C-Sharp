@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingWithDynamic\bin\Debug\net9.0\LateBindingWithDynamic.exe
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingWithDynamic\bin\Debug\net9.0\LateBindingWithDynamic.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingWithDynamic\bin\Debug\net9.0\LateBindingWithDynamic.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingWithDynamic\bin\Debug\net9.0\LateBindingWithDynamic.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingWithDynamic\bin\Debug\net9.0\LateBindingWithDynamic.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingWithDynamic\obj\Debug\net9.0\LateBindingWithDynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingWithDynamic\obj\Debug\net9.0\LateBindingWithDynamic.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingWithDynamic\obj\Debug\net9.0\LateBindingWithDynamic.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingWithDynamic\obj\Debug\net9.0\LateBindingWithDynamic.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingWithDynamic\obj\Debug\net9.0\LateBindingWithDynamic.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingWithDynamic\obj\Debug\net9.0\refint\LateBindingWithDynamic.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingWithDynamic\obj\Debug\net9.0\LateBindingWithDynamic.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingWithDynamic\obj\Debug\net9.0\LateBindingWithDynamic.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingWithDynamic\obj\Debug\net9.0\ref\LateBindingWithDynamic.dll

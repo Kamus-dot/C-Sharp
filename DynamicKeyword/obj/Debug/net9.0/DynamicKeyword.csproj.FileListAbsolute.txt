@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\DynamicKeyword\bin\Debug\net9.0\DynamicKeyword.exe
+C:\Users\Алексей\OneDrive\Документы\C#\DynamicKeyword\bin\Debug\net9.0\DynamicKeyword.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\DynamicKeyword\bin\Debug\net9.0\DynamicKeyword.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\DynamicKeyword\bin\Debug\net9.0\DynamicKeyword.dll
+C:\Users\Алексей\OneDrive\Документы\C#\DynamicKeyword\bin\Debug\net9.0\DynamicKeyword.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\DynamicKeyword\obj\Debug\net9.0\DynamicKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\DynamicKeyword\obj\Debug\net9.0\DynamicKeyword.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\DynamicKeyword\obj\Debug\net9.0\DynamicKeyword.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\DynamicKeyword\obj\Debug\net9.0\DynamicKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\DynamicKeyword\obj\Debug\net9.0\DynamicKeyword.dll
+C:\Users\Алексей\OneDrive\Документы\C#\DynamicKeyword\obj\Debug\net9.0\refint\DynamicKeyword.dll
+C:\Users\Алексей\OneDrive\Документы\C#\DynamicKeyword\obj\Debug\net9.0\DynamicKeyword.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\DynamicKeyword\obj\Debug\net9.0\DynamicKeyword.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\DynamicKeyword\obj\Debug\net9.0\ref\DynamicKeyword.dll

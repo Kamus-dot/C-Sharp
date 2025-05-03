@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCSharpAsync\bin\Debug\net9.0\FunWithCSharpAsync.exe
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCSharpAsync\bin\Debug\net9.0\FunWithCSharpAsync.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCSharpAsync\bin\Debug\net9.0\FunWithCSharpAsync.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCSharpAsync\bin\Debug\net9.0\FunWithCSharpAsync.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCSharpAsync\bin\Debug\net9.0\FunWithCSharpAsync.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCSharpAsync\obj\Debug\net9.0\FunWithCSharpAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCSharpAsync\obj\Debug\net9.0\FunWithCSharpAsync.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCSharpAsync\obj\Debug\net9.0\FunWithCSharpAsync.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCSharpAsync\obj\Debug\net9.0\FunWithCSharpAsync.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCSharpAsync\obj\Debug\net9.0\FunWithCSharpAsync.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCSharpAsync\obj\Debug\net9.0\refint\FunWithCSharpAsync.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCSharpAsync\obj\Debug\net9.0\FunWithCSharpAsync.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCSharpAsync\obj\Debug\net9.0\FunWithCSharpAsync.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCSharpAsync\obj\Debug\net9.0\ref\FunWithCSharpAsync.dll

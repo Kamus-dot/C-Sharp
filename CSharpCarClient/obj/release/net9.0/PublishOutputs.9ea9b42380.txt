@@ -1,0 +1,7 @@
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpCarClient\bin\release\net9.0\publish\CSharpCarClient.exe
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpCarClient\bin\release\net9.0\publish\CSharpCarClient.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpCarClient\bin\release\net9.0\publish\CSharpCarClient.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpCarClient\bin\release\net9.0\publish\CSharpCarClient.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpCarClient\bin\release\net9.0\publish\CSharpCarClient.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpCarClient\bin\release\net9.0\publish\CarLibrary.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpCarClient\bin\release\net9.0\publish\CarLibrary.pdb

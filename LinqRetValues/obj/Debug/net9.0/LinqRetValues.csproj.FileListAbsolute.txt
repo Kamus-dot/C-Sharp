@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\LinqRetValues\bin\Debug\net9.0\LinqRetValues.exe
+C:\Users\Алексей\OneDrive\Документы\C#\LinqRetValues\bin\Debug\net9.0\LinqRetValues.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\LinqRetValues\bin\Debug\net9.0\LinqRetValues.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\LinqRetValues\bin\Debug\net9.0\LinqRetValues.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LinqRetValues\bin\Debug\net9.0\LinqRetValues.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\LinqRetValues\obj\Debug\net9.0\LinqRetValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\LinqRetValues\obj\Debug\net9.0\LinqRetValues.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LinqRetValues\obj\Debug\net9.0\LinqRetValues.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\LinqRetValues\obj\Debug\net9.0\LinqRetValues.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LinqRetValues\obj\Debug\net9.0\LinqRetValues.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LinqRetValues\obj\Debug\net9.0\refint\LinqRetValues.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LinqRetValues\obj\Debug\net9.0\LinqRetValues.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\LinqRetValues\obj\Debug\net9.0\LinqRetValues.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LinqRetValues\obj\Debug\net9.0\ref\LinqRetValues.dll

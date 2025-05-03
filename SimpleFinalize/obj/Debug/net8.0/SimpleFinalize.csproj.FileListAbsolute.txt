@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFinalize\bin\Debug\net8.0\SimpleFinalize.exe
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFinalize\bin\Debug\net8.0\SimpleFinalize.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFinalize\bin\Debug\net8.0\SimpleFinalize.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFinalize\bin\Debug\net8.0\SimpleFinalize.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFinalize\bin\Debug\net8.0\SimpleFinalize.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFinalize\obj\Debug\net8.0\SimpleFinalize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFinalize\obj\Debug\net8.0\SimpleFinalize.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFinalize\obj\Debug\net8.0\SimpleFinalize.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFinalize\obj\Debug\net8.0\SimpleFinalize.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFinalize\obj\Debug\net8.0\SimpleFinalize.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFinalize\obj\Debug\net8.0\refint\SimpleFinalize.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFinalize\obj\Debug\net8.0\SimpleFinalize.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFinalize\obj\Debug\net8.0\SimpleFinalize.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFinalize\obj\Debug\net8.0\ref\SimpleFinalize.dll

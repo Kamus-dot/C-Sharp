@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceHierarchy\bin\Debug\net8.0\InterfaceHierarchy.exe
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceHierarchy\bin\Debug\net8.0\InterfaceHierarchy.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceHierarchy\bin\Debug\net8.0\InterfaceHierarchy.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceHierarchy\bin\Debug\net8.0\InterfaceHierarchy.dll
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceHierarchy\bin\Debug\net8.0\InterfaceHierarchy.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.dll
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceHierarchy\obj\Debug\net8.0\refint\InterfaceHierarchy.dll
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceHierarchy\obj\Debug\net8.0\ref\InterfaceHierarchy.dll

@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\CustomConversions\bin\Debug\net9.0\CustomConversions.exe
+C:\Users\Алексей\OneDrive\Документы\C#\CustomConversions\bin\Debug\net9.0\CustomConversions.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\CustomConversions\bin\Debug\net9.0\CustomConversions.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\CustomConversions\bin\Debug\net9.0\CustomConversions.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomConversions\bin\Debug\net9.0\CustomConversions.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CustomConversions\obj\Debug\net9.0\CustomConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\CustomConversions\obj\Debug\net9.0\CustomConversions.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomConversions\obj\Debug\net9.0\CustomConversions.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\CustomConversions\obj\Debug\net9.0\CustomConversions.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomConversions\obj\Debug\net9.0\CustomConversions.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomConversions\obj\Debug\net9.0\refint\CustomConversions.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CustomConversions\obj\Debug\net9.0\CustomConversions.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CustomConversions\obj\Debug\net9.0\CustomConversions.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CustomConversions\obj\Debug\net9.0\ref\CustomConversions.dll

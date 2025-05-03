@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\LinqUsingEnumerable\bin\Debug\net9.0\LinqUsingEnumerable.exe
+C:\Users\Алексей\OneDrive\Документы\C#\LinqUsingEnumerable\bin\Debug\net9.0\LinqUsingEnumerable.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\LinqUsingEnumerable\bin\Debug\net9.0\LinqUsingEnumerable.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\LinqUsingEnumerable\bin\Debug\net9.0\LinqUsingEnumerable.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LinqUsingEnumerable\bin\Debug\net9.0\LinqUsingEnumerable.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\LinqUsingEnumerable\obj\Debug\net9.0\LinqUsingEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\LinqUsingEnumerable\obj\Debug\net9.0\LinqUsingEnumerable.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LinqUsingEnumerable\obj\Debug\net9.0\LinqUsingEnumerable.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\LinqUsingEnumerable\obj\Debug\net9.0\LinqUsingEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LinqUsingEnumerable\obj\Debug\net9.0\LinqUsingEnumerable.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LinqUsingEnumerable\obj\Debug\net9.0\refint\LinqUsingEnumerable.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LinqUsingEnumerable\obj\Debug\net9.0\LinqUsingEnumerable.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\LinqUsingEnumerable\obj\Debug\net9.0\LinqUsingEnumerable.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LinqUsingEnumerable\obj\Debug\net9.0\ref\LinqUsingEnumerable.dll

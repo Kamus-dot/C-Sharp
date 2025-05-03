@@ -1,0 +1,11 @@
+C:\Users\Алексей\OneDrive\Документы\C#\MathLibrary\bin\Debug\net9.0\MathLibrary.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\MathLibrary\bin\Debug\net9.0\MathLibrary.dll
+C:\Users\Алексей\OneDrive\Документы\C#\MathLibrary\bin\Debug\net9.0\MathLibrary.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\MathLibrary\obj\Debug\net9.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\MathLibrary\obj\Debug\net9.0\MathLibrary.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\MathLibrary\obj\Debug\net9.0\MathLibrary.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\MathLibrary\obj\Debug\net9.0\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\MathLibrary\obj\Debug\net9.0\MathLibrary.dll
+C:\Users\Алексей\OneDrive\Документы\C#\MathLibrary\obj\Debug\net9.0\refint\MathLibrary.dll
+C:\Users\Алексей\OneDrive\Документы\C#\MathLibrary\obj\Debug\net9.0\MathLibrary.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\MathLibrary\obj\Debug\net9.0\ref\MathLibrary.dll

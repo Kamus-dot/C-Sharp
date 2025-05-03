@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\ListOverCollections\bin\Debug\net9.0\ListOverCollections.exe
+C:\Users\Алексей\OneDrive\Документы\C#\ListOverCollections\bin\Debug\net9.0\ListOverCollections.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\ListOverCollections\bin\Debug\net9.0\ListOverCollections.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\ListOverCollections\bin\Debug\net9.0\ListOverCollections.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ListOverCollections\bin\Debug\net9.0\ListOverCollections.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ListOverCollections\obj\Debug\net9.0\ListOverCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\ListOverCollections\obj\Debug\net9.0\ListOverCollections.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ListOverCollections\obj\Debug\net9.0\ListOverCollections.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\ListOverCollections\obj\Debug\net9.0\ListOverCollections.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ListOverCollections\obj\Debug\net9.0\ListOverCollections.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ListOverCollections\obj\Debug\net9.0\refint\ListOverCollections.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ListOverCollections\obj\Debug\net9.0\ListOverCollections.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ListOverCollections\obj\Debug\net9.0\ListOverCollections.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ListOverCollections\obj\Debug\net9.0\ref\ListOverCollections.dll

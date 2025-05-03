@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\UnsafeCode\bin\Debug\net9.0\UnsafeCode.exe
+C:\Users\Алексей\OneDrive\Документы\C#\UnsafeCode\bin\Debug\net9.0\UnsafeCode.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\UnsafeCode\bin\Debug\net9.0\UnsafeCode.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\UnsafeCode\bin\Debug\net9.0\UnsafeCode.dll
+C:\Users\Алексей\OneDrive\Документы\C#\UnsafeCode\bin\Debug\net9.0\UnsafeCode.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\UnsafeCode\obj\Debug\net9.0\UnsafeCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\UnsafeCode\obj\Debug\net9.0\UnsafeCode.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\UnsafeCode\obj\Debug\net9.0\UnsafeCode.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\UnsafeCode\obj\Debug\net9.0\UnsafeCode.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\UnsafeCode\obj\Debug\net9.0\UnsafeCode.dll
+C:\Users\Алексей\OneDrive\Документы\C#\UnsafeCode\obj\Debug\net9.0\refint\UnsafeCode.dll
+C:\Users\Алексей\OneDrive\Документы\C#\UnsafeCode\obj\Debug\net9.0\UnsafeCode.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\UnsafeCode\obj\Debug\net9.0\UnsafeCode.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\UnsafeCode\obj\Debug\net9.0\ref\UnsafeCode.dll

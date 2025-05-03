@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LF8Ll0BgOmI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Алексей\\OneDrive\\Документы\\C#\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Алексей\\.nuget\\packages\\microsoft.netcore.ildasm\\8.0.0\\microsoft.netcore.ildasm.8.0.0.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\runtime.win-x64.microsoft.netcore.ildasm\\6.0.0\\runtime.win-x64.microsoft.netcore.ildasm.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

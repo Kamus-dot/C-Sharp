@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\AnonymousTypes\bin\Debug\net9.0\AnonymousTypes.exe
+C:\Users\Алексей\OneDrive\Документы\C#\AnonymousTypes\bin\Debug\net9.0\AnonymousTypes.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\AnonymousTypes\bin\Debug\net9.0\AnonymousTypes.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\AnonymousTypes\bin\Debug\net9.0\AnonymousTypes.dll
+C:\Users\Алексей\OneDrive\Документы\C#\AnonymousTypes\bin\Debug\net9.0\AnonymousTypes.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\AnonymousTypes\obj\Debug\net9.0\AnonymousTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\AnonymousTypes\obj\Debug\net9.0\AnonymousTypes.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\AnonymousTypes\obj\Debug\net9.0\AnonymousTypes.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\AnonymousTypes\obj\Debug\net9.0\AnonymousTypes.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\AnonymousTypes\obj\Debug\net9.0\AnonymousTypes.dll
+C:\Users\Алексей\OneDrive\Документы\C#\AnonymousTypes\obj\Debug\net9.0\refint\AnonymousTypes.dll
+C:\Users\Алексей\OneDrive\Документы\C#\AnonymousTypes\obj\Debug\net9.0\AnonymousTypes.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\AnonymousTypes\obj\Debug\net9.0\AnonymousTypes.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\AnonymousTypes\obj\Debug\net9.0\ref\AnonymousTypes.dll

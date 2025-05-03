@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\GenericDelegate\bin\Debug\net9.0\GenericDelegate.exe
+C:\Users\Алексей\OneDrive\Документы\C#\GenericDelegate\bin\Debug\net9.0\GenericDelegate.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\GenericDelegate\bin\Debug\net9.0\GenericDelegate.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\GenericDelegate\bin\Debug\net9.0\GenericDelegate.dll
+C:\Users\Алексей\OneDrive\Документы\C#\GenericDelegate\bin\Debug\net9.0\GenericDelegate.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\GenericDelegate\obj\Debug\net9.0\GenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\GenericDelegate\obj\Debug\net9.0\GenericDelegate.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\GenericDelegate\obj\Debug\net9.0\GenericDelegate.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\GenericDelegate\obj\Debug\net9.0\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\GenericDelegate\obj\Debug\net9.0\GenericDelegate.dll
+C:\Users\Алексей\OneDrive\Документы\C#\GenericDelegate\obj\Debug\net9.0\refint\GenericDelegate.dll
+C:\Users\Алексей\OneDrive\Документы\C#\GenericDelegate\obj\Debug\net9.0\GenericDelegate.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\GenericDelegate\obj\Debug\net9.0\GenericDelegate.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\GenericDelegate\obj\Debug\net9.0\ref\GenericDelegate.dll

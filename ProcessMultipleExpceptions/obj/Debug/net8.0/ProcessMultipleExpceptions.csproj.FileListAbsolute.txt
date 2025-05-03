@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessMultipleExpceptions\bin\Debug\net8.0\ProcessMultipleExpceptions.exe
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessMultipleExpceptions\bin\Debug\net8.0\ProcessMultipleExpceptions.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessMultipleExpceptions\bin\Debug\net8.0\ProcessMultipleExpceptions.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessMultipleExpceptions\bin\Debug\net8.0\ProcessMultipleExpceptions.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessMultipleExpceptions\bin\Debug\net8.0\ProcessMultipleExpceptions.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessMultipleExpceptions\obj\Debug\net8.0\ProcessMultipleExpceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessMultipleExpceptions\obj\Debug\net8.0\ProcessMultipleExpceptions.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessMultipleExpceptions\obj\Debug\net8.0\ProcessMultipleExpceptions.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessMultipleExpceptions\obj\Debug\net8.0\ProcessMultipleExpceptions.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessMultipleExpceptions\obj\Debug\net8.0\ProcessMultipleExpceptions.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessMultipleExpceptions\obj\Debug\net8.0\refint\ProcessMultipleExpceptions.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessMultipleExpceptions\obj\Debug\net8.0\ProcessMultipleExpceptions.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessMultipleExpceptions\obj\Debug\net8.0\ProcessMultipleExpceptions.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ProcessMultipleExpceptions\obj\Debug\net8.0\ref\ProcessMultipleExpceptions.dll

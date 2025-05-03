@@ -1,0 +1,14 @@
+using System;
+namespace CustomGenericMethods
+{
+    static class SwapFunctions
+    {
+        // Поменять местами два целочисленных значения,
+        internal static void Swap<T>(ref T a, ref T b)
+        {
+            T temp = a;
+            a = b;
+            b = temp;
+        }
+    }
+}

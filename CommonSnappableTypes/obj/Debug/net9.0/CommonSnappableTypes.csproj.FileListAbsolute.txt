@@ -1,0 +1,11 @@
+C:\Users\Алексей\OneDrive\Документы\C#\CommonSnappableTypes\bin\Debug\net9.0\CommonSnappableTypes.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\CommonSnappableTypes\bin\Debug\net9.0\CommonSnappableTypes.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CommonSnappableTypes\bin\Debug\net9.0\CommonSnappableTypes.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CommonSnappableTypes\obj\Debug\net9.0\CommonSnappableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\CommonSnappableTypes\obj\Debug\net9.0\CommonSnappableTypes.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CommonSnappableTypes\obj\Debug\net9.0\CommonSnappableTypes.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\CommonSnappableTypes\obj\Debug\net9.0\CommonSnappableTypes.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CommonSnappableTypes\obj\Debug\net9.0\CommonSnappableTypes.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CommonSnappableTypes\obj\Debug\net9.0\refint\CommonSnappableTypes.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CommonSnappableTypes\obj\Debug\net9.0\CommonSnappableTypes.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CommonSnappableTypes\obj\Debug\net9.0\ref\CommonSnappableTypes.dll

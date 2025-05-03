@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithLinqExpressions\bin\Debug\net9.0\FunWithLinqExpressions.exe
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithLinqExpressions\bin\Debug\net9.0\FunWithLinqExpressions.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithLinqExpressions\bin\Debug\net9.0\FunWithLinqExpressions.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithLinqExpressions\bin\Debug\net9.0\FunWithLinqExpressions.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithLinqExpressions\bin\Debug\net9.0\FunWithLinqExpressions.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithLinqExpressions\obj\Debug\net9.0\FunWithLinqExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithLinqExpressions\obj\Debug\net9.0\FunWithLinqExpressions.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithLinqExpressions\obj\Debug\net9.0\FunWithLinqExpressions.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithLinqExpressions\obj\Debug\net9.0\FunWithLinqExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithLinqExpressions\obj\Debug\net9.0\FunWithLinqExpressions.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithLinqExpressions\obj\Debug\net9.0\refint\FunWithLinqExpressions.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithLinqExpressions\obj\Debug\net9.0\FunWithLinqExpressions.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithLinqExpressions\obj\Debug\net9.0\FunWithLinqExpressions.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithLinqExpressions\obj\Debug\net9.0\ref\FunWithLinqExpressions.dll

@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "CarLibrary/1.0.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CarLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CarLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarLibrary/1.0.0.1": {
+      "sha512": "0cD75VUfakkw7+VtvBY6aOKiOOZLbYZY2zNnQl0tIIVno9/M40/cwTOahB6Z289DK/D4EZzBAM0ymVXFRkk4RQ==",
+      "type": "package",
+      "path": "carlibrary/1.0.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "carlibrary.1.0.0.1.nupkg.sha512",
+        "carlibrary.nuspec",
+        "lib/net6.0/CarLibrary.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "CarLibrary >= 1.0.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Алексей\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Алексей\\OneDrive\\Документы\\C#\\ExternalAssemblyViewer\\ExternalAssemblyViewer.csproj",
+      "projectName": "ExternalAssemblyViewer",
+      "projectPath": "C:\\Users\\Алексей\\OneDrive\\Документы\\C#\\ExternalAssemblyViewer\\ExternalAssemblyViewer.csproj",
+      "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Алексей\\OneDrive\\Документы\\C#\\ExternalAssemblyViewer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "CarLibrary": {
+            "target": "Package",
+            "version": "[1.0.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

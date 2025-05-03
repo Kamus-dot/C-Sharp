@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.exe
+C:\Users\Алексей\OneDrive\Документы\C#\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ExtensionMethods\obj\Debug\net9.0\refint\ExtensionMethods.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ExtensionMethods\obj\Debug\net9.0\ref\ExtensionMethods.dll

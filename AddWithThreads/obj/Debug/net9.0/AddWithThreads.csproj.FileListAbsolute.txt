@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\AddWithThreads\bin\Debug\net9.0\AddWithThreads.exe
+C:\Users\Алексей\OneDrive\Документы\C#\AddWithThreads\bin\Debug\net9.0\AddWithThreads.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\AddWithThreads\bin\Debug\net9.0\AddWithThreads.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\AddWithThreads\bin\Debug\net9.0\AddWithThreads.dll
+C:\Users\Алексей\OneDrive\Документы\C#\AddWithThreads\bin\Debug\net9.0\AddWithThreads.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\AddWithThreads\obj\Debug\net9.0\AddWithThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\AddWithThreads\obj\Debug\net9.0\AddWithThreads.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\AddWithThreads\obj\Debug\net9.0\AddWithThreads.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\AddWithThreads\obj\Debug\net9.0\AddWithThreads.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\AddWithThreads\obj\Debug\net9.0\AddWithThreads.dll
+C:\Users\Алексей\OneDrive\Документы\C#\AddWithThreads\obj\Debug\net9.0\refint\AddWithThreads.dll
+C:\Users\Алексей\OneDrive\Документы\C#\AddWithThreads\obj\Debug\net9.0\AddWithThreads.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\AddWithThreads\obj\Debug\net9.0\AddWithThreads.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\AddWithThreads\obj\Debug\net9.0\ref\AddWithThreads.dll

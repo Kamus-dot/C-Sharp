@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\MultiThreadedPrinting\bin\Debug\net9.0\MultiThreadedPrinting.exe
+C:\Users\Алексей\OneDrive\Документы\C#\MultiThreadedPrinting\bin\Debug\net9.0\MultiThreadedPrinting.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\MultiThreadedPrinting\bin\Debug\net9.0\MultiThreadedPrinting.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\MultiThreadedPrinting\bin\Debug\net9.0\MultiThreadedPrinting.dll
+C:\Users\Алексей\OneDrive\Документы\C#\MultiThreadedPrinting\bin\Debug\net9.0\MultiThreadedPrinting.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\MultiThreadedPrinting\obj\Debug\net9.0\MultiThreadedPrinting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\MultiThreadedPrinting\obj\Debug\net9.0\MultiThreadedPrinting.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\MultiThreadedPrinting\obj\Debug\net9.0\MultiThreadedPrinting.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\MultiThreadedPrinting\obj\Debug\net9.0\MultiThreadedPrinting.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\MultiThreadedPrinting\obj\Debug\net9.0\MultiThreadedPrinting.dll
+C:\Users\Алексей\OneDrive\Документы\C#\MultiThreadedPrinting\obj\Debug\net9.0\refint\MultiThreadedPrinting.dll
+C:\Users\Алексей\OneDrive\Документы\C#\MultiThreadedPrinting\obj\Debug\net9.0\MultiThreadedPrinting.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\MultiThreadedPrinting\obj\Debug\net9.0\MultiThreadedPrinting.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\MultiThreadedPrinting\obj\Debug\net9.0\ref\MultiThreadedPrinting.dll

@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\ActionAndFucnDelegates\bin\Debug\net9.0\ActionAndFucnDelegates.exe
+C:\Users\Алексей\OneDrive\Документы\C#\ActionAndFucnDelegates\bin\Debug\net9.0\ActionAndFucnDelegates.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\ActionAndFucnDelegates\bin\Debug\net9.0\ActionAndFucnDelegates.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\ActionAndFucnDelegates\bin\Debug\net9.0\ActionAndFucnDelegates.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ActionAndFucnDelegates\bin\Debug\net9.0\ActionAndFucnDelegates.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ActionAndFucnDelegates\obj\Debug\net9.0\ActionAndFucnDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\ActionAndFucnDelegates\obj\Debug\net9.0\ActionAndFucnDelegates.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ActionAndFucnDelegates\obj\Debug\net9.0\ActionAndFucnDelegates.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\ActionAndFucnDelegates\obj\Debug\net9.0\ActionAndFucnDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ActionAndFucnDelegates\obj\Debug\net9.0\ActionAndFucnDelegates.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ActionAndFucnDelegates\obj\Debug\net9.0\refint\ActionAndFucnDelegates.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ActionAndFucnDelegates\obj\Debug\net9.0\ActionAndFucnDelegates.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ActionAndFucnDelegates\obj\Debug\net9.0\ActionAndFucnDelegates.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ActionAndFucnDelegates\obj\Debug\net9.0\ref\ActionAndFucnDelegates.dll

@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingApp\bin\Debug\net9.0\LateBindingApp.exe
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingApp\bin\Debug\net9.0\LateBindingApp.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingApp\bin\Debug\net9.0\LateBindingApp.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingApp\bin\Debug\net9.0\LateBindingApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingApp\bin\Debug\net9.0\LateBindingApp.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingApp\obj\Debug\net9.0\LateBindingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingApp\obj\Debug\net9.0\LateBindingApp.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingApp\obj\Debug\net9.0\LateBindingApp.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingApp\obj\Debug\net9.0\LateBindingApp.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingApp\obj\Debug\net9.0\LateBindingApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingApp\obj\Debug\net9.0\refint\LateBindingApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingApp\obj\Debug\net9.0\LateBindingApp.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingApp\obj\Debug\net9.0\LateBindingApp.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LateBindingApp\obj\Debug\net9.0\ref\LateBindingApp.dll

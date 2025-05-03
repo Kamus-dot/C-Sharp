@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCollectionlnitialization\bin\Debug\net9.0\FunWithCollectionlnitialization.exe
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCollectionlnitialization\bin\Debug\net9.0\FunWithCollectionlnitialization.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCollectionlnitialization\bin\Debug\net9.0\FunWithCollectionlnitialization.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCollectionlnitialization\bin\Debug\net9.0\FunWithCollectionlnitialization.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCollectionlnitialization\bin\Debug\net9.0\FunWithCollectionlnitialization.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCollectionlnitialization\obj\Debug\net9.0\FunWithCollectionlnitialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCollectionlnitialization\obj\Debug\net9.0\FunWithCollectionlnitialization.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCollectionlnitialization\obj\Debug\net9.0\FunWithCollectionlnitialization.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCollectionlnitialization\obj\Debug\net9.0\FunWithCollectionlnitialization.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCollectionlnitialization\obj\Debug\net9.0\FunWithCollectionlnitialization.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCollectionlnitialization\obj\Debug\net9.0\refint\FunWithCollectionlnitialization.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCollectionlnitialization\obj\Debug\net9.0\FunWithCollectionlnitialization.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCollectionlnitialization\obj\Debug\net9.0\FunWithCollectionlnitialization.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithCollectionlnitialization\obj\Debug\net9.0\ref\FunWithCollectionlnitialization.dll

@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\FirstSamples\bin\Debug\net9.0\FirstSamples.exe
+C:\Users\Алексей\OneDrive\Документы\C#\FirstSamples\bin\Debug\net9.0\FirstSamples.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\FirstSamples\bin\Debug\net9.0\FirstSamples.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\FirstSamples\bin\Debug\net9.0\FirstSamples.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FirstSamples\bin\Debug\net9.0\FirstSamples.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\FirstSamples\obj\Debug\net9.0\FirstSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\FirstSamples\obj\Debug\net9.0\FirstSamples.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FirstSamples\obj\Debug\net9.0\FirstSamples.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\FirstSamples\obj\Debug\net9.0\FirstSamples.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FirstSamples\obj\Debug\net9.0\FirstSamples.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FirstSamples\obj\Debug\net9.0\refint\FirstSamples.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FirstSamples\obj\Debug\net9.0\FirstSamples.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\FirstSamples\obj\Debug\net9.0\FirstSamples.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FirstSamples\obj\Debug\net9.0\ref\FirstSamples.dll

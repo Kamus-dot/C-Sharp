@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\CloneablePoint\bin\Debug\net8.0\CloneablePoint.exe
+C:\Users\Алексей\OneDrive\Документы\C#\CloneablePoint\bin\Debug\net8.0\CloneablePoint.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\CloneablePoint\bin\Debug\net8.0\CloneablePoint.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\CloneablePoint\bin\Debug\net8.0\CloneablePoint.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CloneablePoint\bin\Debug\net8.0\CloneablePoint.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CloneablePoint\obj\Debug\net8.0\CloneablePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\CloneablePoint\obj\Debug\net8.0\CloneablePoint.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CloneablePoint\obj\Debug\net8.0\CloneablePoint.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\CloneablePoint\obj\Debug\net8.0\CloneablePoint.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CloneablePoint\obj\Debug\net8.0\CloneablePoint.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CloneablePoint\obj\Debug\net8.0\refint\CloneablePoint.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CloneablePoint\obj\Debug\net8.0\CloneablePoint.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CloneablePoint\obj\Debug\net8.0\CloneablePoint.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CloneablePoint\obj\Debug\net8.0\ref\CloneablePoint.dll

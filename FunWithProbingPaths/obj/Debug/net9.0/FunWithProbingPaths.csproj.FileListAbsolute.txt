@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithProbingPaths\bin\Debug\net9.0\FunWithProbingPaths.exe
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithProbingPaths\bin\Debug\net9.0\FunWithProbingPaths.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithProbingPaths\bin\Debug\net9.0\FunWithProbingPaths.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithProbingPaths\bin\Debug\net9.0\FunWithProbingPaths.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithProbingPaths\bin\Debug\net9.0\FunWithProbingPaths.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithProbingPaths\obj\Debug\net9.0\FunWithProbingPaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithProbingPaths\obj\Debug\net9.0\FunWithProbingPaths.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithProbingPaths\obj\Debug\net9.0\FunWithProbingPaths.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithProbingPaths\obj\Debug\net9.0\FunWithProbingPaths.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithProbingPaths\obj\Debug\net9.0\FunWithProbingPaths.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithProbingPaths\obj\Debug\net9.0\refint\FunWithProbingPaths.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithProbingPaths\obj\Debug\net9.0\FunWithProbingPaths.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithProbingPaths\obj\Debug\net9.0\FunWithProbingPaths.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithProbingPaths\obj\Debug\net9.0\ref\FunWithProbingPaths.dll

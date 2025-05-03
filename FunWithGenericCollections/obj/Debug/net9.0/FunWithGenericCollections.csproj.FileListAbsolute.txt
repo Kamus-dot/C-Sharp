@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithGenericCollections\bin\Debug\net9.0\FunWithGenericCollections.exe
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithGenericCollections\bin\Debug\net9.0\FunWithGenericCollections.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithGenericCollections\bin\Debug\net9.0\FunWithGenericCollections.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithGenericCollections\bin\Debug\net9.0\FunWithGenericCollections.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithGenericCollections\bin\Debug\net9.0\FunWithGenericCollections.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithGenericCollections\obj\Debug\net9.0\FunWithGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithGenericCollections\obj\Debug\net9.0\FunWithGenericCollections.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithGenericCollections\obj\Debug\net9.0\FunWithGenericCollections.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithGenericCollections\obj\Debug\net9.0\FunWithGenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithGenericCollections\obj\Debug\net9.0\FunWithGenericCollections.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithGenericCollections\obj\Debug\net9.0\refint\FunWithGenericCollections.dll
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithGenericCollections\obj\Debug\net9.0\FunWithGenericCollections.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithGenericCollections\obj\Debug\net9.0\FunWithGenericCollections.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\FunWithGenericCollections\obj\Debug\net9.0\ref\FunWithGenericCollections.dll

@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceNameClash\bin\Debug\net8.0\InterfaceNameClash.exe
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceNameClash\bin\Debug\net8.0\InterfaceNameClash.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceNameClash\bin\Debug\net8.0\InterfaceNameClash.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceNameClash\bin\Debug\net8.0\InterfaceNameClash.dll
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceNameClash\bin\Debug\net8.0\InterfaceNameClash.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceNameClash\obj\Debug\net8.0\InterfaceNameClash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceNameClash\obj\Debug\net8.0\InterfaceNameClash.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceNameClash\obj\Debug\net8.0\InterfaceNameClash.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceNameClash\obj\Debug\net8.0\InterfaceNameClash.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceNameClash\obj\Debug\net8.0\InterfaceNameClash.dll
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceNameClash\obj\Debug\net8.0\refint\InterfaceNameClash.dll
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceNameClash\obj\Debug\net8.0\InterfaceNameClash.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceNameClash\obj\Debug\net8.0\InterfaceNameClash.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceNameClash\obj\Debug\net8.0\ref\InterfaceNameClash.dll

@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\LazyObjectInstantiation\bin\Debug\net8.0\LazyObjectInstantiation.exe
+C:\Users\Алексей\OneDrive\Документы\C#\LazyObjectInstantiation\bin\Debug\net8.0\LazyObjectInstantiation.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\LazyObjectInstantiation\bin\Debug\net8.0\LazyObjectInstantiation.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\LazyObjectInstantiation\bin\Debug\net8.0\LazyObjectInstantiation.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LazyObjectInstantiation\bin\Debug\net8.0\LazyObjectInstantiation.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\LazyObjectInstantiation\obj\Debug\net8.0\LazyObjectInstantiation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\LazyObjectInstantiation\obj\Debug\net8.0\LazyObjectInstantiation.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LazyObjectInstantiation\obj\Debug\net8.0\LazyObjectInstantiation.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\LazyObjectInstantiation\obj\Debug\net8.0\LazyObjectInstantiation.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LazyObjectInstantiation\obj\Debug\net8.0\LazyObjectInstantiation.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LazyObjectInstantiation\obj\Debug\net8.0\refint\LazyObjectInstantiation.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LazyObjectInstantiation\obj\Debug\net8.0\LazyObjectInstantiation.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\LazyObjectInstantiation\obj\Debug\net8.0\LazyObjectInstantiation.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LazyObjectInstantiation\obj\Debug\net8.0\ref\LazyObjectInstantiation.dll

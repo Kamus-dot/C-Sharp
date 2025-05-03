@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n95SEiKQFAk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Алексей\\OneDrive\\Документы\\C#\\DataParallelismWithForEach\\DataParallelismWithForEach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Алексей\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.2\\microsoft.win32.systemevents.9.0.2.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\system.drawing.common\\9.0.2\\system.drawing.common.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

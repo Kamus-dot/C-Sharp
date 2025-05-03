@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceExtensions\bin\Debug\net9.0\InterfaceExtensions.exe
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceExtensions\bin\Debug\net9.0\InterfaceExtensions.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceExtensions\bin\Debug\net9.0\InterfaceExtensions.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceExtensions\bin\Debug\net9.0\InterfaceExtensions.dll
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceExtensions\bin\Debug\net9.0\InterfaceExtensions.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceExtensions\obj\Debug\net9.0\InterfaceExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceExtensions\obj\Debug\net9.0\InterfaceExtensions.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceExtensions\obj\Debug\net9.0\InterfaceExtensions.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceExtensions\obj\Debug\net9.0\InterfaceExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceExtensions\obj\Debug\net9.0\InterfaceExtensions.dll
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceExtensions\obj\Debug\net9.0\refint\InterfaceExtensions.dll
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceExtensions\obj\Debug\net9.0\InterfaceExtensions.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceExtensions\obj\Debug\net9.0\InterfaceExtensions.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\InterfaceExtensions\obj\Debug\net9.0\ref\InterfaceExtensions.dll

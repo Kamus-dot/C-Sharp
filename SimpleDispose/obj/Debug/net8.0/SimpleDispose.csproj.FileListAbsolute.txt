@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDispose\bin\Debug\net8.0\SimpleDispose.exe
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDispose\bin\Debug\net8.0\SimpleDispose.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDispose\bin\Debug\net8.0\SimpleDispose.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDispose\bin\Debug\net8.0\SimpleDispose.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDispose\bin\Debug\net8.0\SimpleDispose.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDispose\obj\Debug\net8.0\SimpleDispose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDispose\obj\Debug\net8.0\SimpleDispose.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDispose\obj\Debug\net8.0\SimpleDispose.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDispose\obj\Debug\net8.0\SimpleDispose.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDispose\obj\Debug\net8.0\SimpleDispose.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDispose\obj\Debug\net8.0\refint\SimpleDispose.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDispose\obj\Debug\net8.0\SimpleDispose.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDispose\obj\Debug\net8.0\SimpleDispose.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDispose\obj\Debug\net8.0\ref\SimpleDispose.dll

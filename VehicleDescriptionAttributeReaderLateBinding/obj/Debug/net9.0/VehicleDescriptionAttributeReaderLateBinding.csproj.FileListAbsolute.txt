@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\net9.0\VehicleDescriptionAttributeReaderLateBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\net9.0\VehicleDescriptionAttributeReaderLateBinding.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\net9.0\VehicleDescriptionAttributeReaderLateBinding.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\net9.0\VehicleDescriptionAttributeReaderLateBinding.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\VehicleDescriptionAttributeReaderLateBinding\bin\Debug\net9.0\VehicleDescriptionAttributeReaderLateBinding.exe
+C:\Users\Алексей\OneDrive\Документы\C#\VehicleDescriptionAttributeReaderLateBinding\bin\Debug\net9.0\VehicleDescriptionAttributeReaderLateBinding.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\VehicleDescriptionAttributeReaderLateBinding\bin\Debug\net9.0\VehicleDescriptionAttributeReaderLateBinding.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\VehicleDescriptionAttributeReaderLateBinding\bin\Debug\net9.0\VehicleDescriptionAttributeReaderLateBinding.dll
+C:\Users\Алексей\OneDrive\Документы\C#\VehicleDescriptionAttributeReaderLateBinding\bin\Debug\net9.0\VehicleDescriptionAttributeReaderLateBinding.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\net9.0\VehicleDescriptionAttributeReaderLateBinding.dll
+C:\Users\Алексей\OneDrive\Документы\C#\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\net9.0\refint\VehicleDescriptionAttributeReaderLateBinding.dll
+C:\Users\Алексей\OneDrive\Документы\C#\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\net9.0\VehicleDescriptionAttributeReaderLateBinding.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\net9.0\VehicleDescriptionAttributeReaderLateBinding.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\VehicleDescriptionAttributeReaderLateBinding\obj\Debug\net9.0\ref\VehicleDescriptionAttributeReaderLateBinding.dll

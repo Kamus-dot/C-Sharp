@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleException\bin\Debug\net8.0\SimpleException.exe
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleException\bin\Debug\net8.0\SimpleException.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleException\bin\Debug\net8.0\SimpleException.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleException\bin\Debug\net8.0\SimpleException.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleException\bin\Debug\net8.0\SimpleException.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleException\obj\Debug\net8.0\SimpleException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleException\obj\Debug\net8.0\SimpleException.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleException\obj\Debug\net8.0\SimpleException.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleException\obj\Debug\net8.0\SimpleException.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleException\obj\Debug\net8.0\SimpleException.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleException\obj\Debug\net8.0\refint\SimpleException.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleException\obj\Debug\net8.0\SimpleException.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleException\obj\Debug\net8.0\SimpleException.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleException\obj\Debug\net8.0\ref\SimpleException.dll

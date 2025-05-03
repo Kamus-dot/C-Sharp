@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\GenericPoint\bin\Debug\net9.0\GenericPoint.exe
+C:\Users\Алексей\OneDrive\Документы\C#\GenericPoint\bin\Debug\net9.0\GenericPoint.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\GenericPoint\bin\Debug\net9.0\GenericPoint.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\GenericPoint\bin\Debug\net9.0\GenericPoint.dll
+C:\Users\Алексей\OneDrive\Документы\C#\GenericPoint\bin\Debug\net9.0\GenericPoint.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\GenericPoint\obj\Debug\net9.0\GenericPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\GenericPoint\obj\Debug\net9.0\GenericPoint.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\GenericPoint\obj\Debug\net9.0\GenericPoint.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\GenericPoint\obj\Debug\net9.0\GenericPoint.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\GenericPoint\obj\Debug\net9.0\GenericPoint.dll
+C:\Users\Алексей\OneDrive\Документы\C#\GenericPoint\obj\Debug\net9.0\refint\GenericPoint.dll
+C:\Users\Алексей\OneDrive\Документы\C#\GenericPoint\obj\Debug\net9.0\GenericPoint.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\GenericPoint\obj\Debug\net9.0\GenericPoint.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\GenericPoint\obj\Debug\net9.0\ref\GenericPoint.dll

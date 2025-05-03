@@ -1,0 +1,3 @@
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpCarClient\singlefile\CSharpCarClient.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpCarClient\singlefile\CarLibrary.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CSharpCarClient\singlefile\CSharpCarClient.exe

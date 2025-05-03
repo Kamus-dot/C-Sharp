@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDelegate\bin\Debug\net9.0\SimpleDelegate.exe
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDelegate\bin\Debug\net9.0\SimpleDelegate.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDelegate\bin\Debug\net9.0\SimpleDelegate.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDelegate\bin\Debug\net9.0\SimpleDelegate.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDelegate\bin\Debug\net9.0\SimpleDelegate.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDelegate\obj\Debug\net9.0\SimpleDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDelegate\obj\Debug\net9.0\SimpleDelegate.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDelegate\obj\Debug\net9.0\SimpleDelegate.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDelegate\obj\Debug\net9.0\SimpleDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDelegate\obj\Debug\net9.0\SimpleDelegate.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDelegate\obj\Debug\net9.0\refint\SimpleDelegate.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDelegate\obj\Debug\net9.0\SimpleDelegate.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDelegate\obj\Debug\net9.0\SimpleDelegate.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleDelegate\obj\Debug\net9.0\ref\SimpleDelegate.dll

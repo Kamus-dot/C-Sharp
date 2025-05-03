@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\IssuesWithNongenericCollections\obj\Debug\net8.0\IssuesWithNongenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\IssuesWithNongenericCollections\obj\Debug\net8.0\IssuesWithNongenericCollections.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\IssuesWithNongenericCollections\obj\Debug\net8.0\IssuesWithNongenericCollections.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\IssuesWithNongenericCollections\obj\Debug\net8.0\IssuesWithNongenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\IssuesWithNongenericCollections\bin\Debug\net8.0\IssuesWithNongenericCollections.exe
+C:\Users\Алексей\OneDrive\Документы\C#\IssuesWithNongenericCollections\bin\Debug\net8.0\IssuesWithNongenericCollections.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\IssuesWithNongenericCollections\bin\Debug\net8.0\IssuesWithNongenericCollections.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\IssuesWithNongenericCollections\bin\Debug\net8.0\IssuesWithNongenericCollections.dll
+C:\Users\Алексей\OneDrive\Документы\C#\IssuesWithNongenericCollections\bin\Debug\net8.0\IssuesWithNongenericCollections.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\IssuesWithNongenericCollections\obj\Debug\net8.0\IssuesWithNongenericCollections.dll
+C:\Users\Алексей\OneDrive\Документы\C#\IssuesWithNongenericCollections\obj\Debug\net8.0\refint\IssuesWithNongenericCollections.dll
+C:\Users\Алексей\OneDrive\Документы\C#\IssuesWithNongenericCollections\obj\Debug\net8.0\IssuesWithNongenericCollections.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\IssuesWithNongenericCollections\obj\Debug\net8.0\IssuesWithNongenericCollections.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\IssuesWithNongenericCollections\obj\Debug\net8.0\ref\IssuesWithNongenericCollections.dll

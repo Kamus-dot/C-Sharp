@@ -1,0 +1,47 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core FWM (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/FunWithMassive/bin/Debug/net8.0/FunWithMassive.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": ".NET Core Launch App2 (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/ConsoleApp2",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+        },
+        {
+            "name": ".NET Core Launch App1 (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/ConsoleApp1",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        }
+    ],
+    "compounds": [
+        {
+            "name": "Both Console",
+            "configurations": [
+                ".NET Core Launch App1 (console)",
+                ".NET Core Launch App2 (console)",
+            ]
+        }
+    ]
+}

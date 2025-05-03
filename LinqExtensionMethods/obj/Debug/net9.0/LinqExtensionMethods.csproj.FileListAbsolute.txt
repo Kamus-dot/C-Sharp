@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\LinqExtensionMethods\bin\Debug\net9.0\LinqExtensionMethods.exe
+C:\Users\Алексей\OneDrive\Документы\C#\LinqExtensionMethods\bin\Debug\net9.0\LinqExtensionMethods.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\LinqExtensionMethods\bin\Debug\net9.0\LinqExtensionMethods.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\LinqExtensionMethods\bin\Debug\net9.0\LinqExtensionMethods.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LinqExtensionMethods\bin\Debug\net9.0\LinqExtensionMethods.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\LinqExtensionMethods\obj\Debug\net9.0\LinqExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\LinqExtensionMethods\obj\Debug\net9.0\LinqExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LinqExtensionMethods\obj\Debug\net9.0\LinqExtensionMethods.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\LinqExtensionMethods\obj\Debug\net9.0\LinqExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LinqExtensionMethods\obj\Debug\net9.0\LinqExtensionMethods.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LinqExtensionMethods\obj\Debug\net9.0\refint\LinqExtensionMethods.dll
+C:\Users\Алексей\OneDrive\Документы\C#\LinqExtensionMethods\obj\Debug\net9.0\LinqExtensionMethods.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\LinqExtensionMethods\obj\Debug\net9.0\LinqExtensionMethods.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\LinqExtensionMethods\obj\Debug\net9.0\ref\LinqExtensionMethods.dll

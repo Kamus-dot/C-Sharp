@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\MyTypeViewer\bin\Debug\net9.0\MyTypeViewer.exe
+C:\Users\Алексей\OneDrive\Документы\C#\MyTypeViewer\bin\Debug\net9.0\MyTypeViewer.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\MyTypeViewer\bin\Debug\net9.0\MyTypeViewer.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\MyTypeViewer\bin\Debug\net9.0\MyTypeViewer.dll
+C:\Users\Алексей\OneDrive\Документы\C#\MyTypeViewer\bin\Debug\net9.0\MyTypeViewer.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\MyTypeViewer\obj\Debug\net9.0\MyTypeViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\MyTypeViewer\obj\Debug\net9.0\MyTypeViewer.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\MyTypeViewer\obj\Debug\net9.0\MyTypeViewer.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\MyTypeViewer\obj\Debug\net9.0\MyTypeViewer.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\MyTypeViewer\obj\Debug\net9.0\MyTypeViewer.dll
+C:\Users\Алексей\OneDrive\Документы\C#\MyTypeViewer\obj\Debug\net9.0\refint\MyTypeViewer.dll
+C:\Users\Алексей\OneDrive\Документы\C#\MyTypeViewer\obj\Debug\net9.0\MyTypeViewer.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\MyTypeViewer\obj\Debug\net9.0\MyTypeViewer.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\MyTypeViewer\obj\Debug\net9.0\ref\MyTypeViewer.dll

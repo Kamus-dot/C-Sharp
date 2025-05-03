@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AttributedCarLibrary/1.0.0.1": {
+        "runtime": {
+          "AttributedCarLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AttributedCarLibrary/1.0.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

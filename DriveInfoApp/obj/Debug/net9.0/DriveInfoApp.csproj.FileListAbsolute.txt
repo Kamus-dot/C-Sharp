@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\DriveInfoApp\bin\Debug\net9.0\DriveInfoApp.exe
+C:\Users\Алексей\OneDrive\Документы\C#\DriveInfoApp\bin\Debug\net9.0\DriveInfoApp.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\DriveInfoApp\bin\Debug\net9.0\DriveInfoApp.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\DriveInfoApp\bin\Debug\net9.0\DriveInfoApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\DriveInfoApp\bin\Debug\net9.0\DriveInfoApp.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\DriveInfoApp\obj\Debug\net9.0\DriveInfoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\DriveInfoApp\obj\Debug\net9.0\DriveInfoApp.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\DriveInfoApp\obj\Debug\net9.0\DriveInfoApp.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\DriveInfoApp\obj\Debug\net9.0\DriveInfoApp.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\DriveInfoApp\obj\Debug\net9.0\DriveInfoApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\DriveInfoApp\obj\Debug\net9.0\refint\DriveInfoApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\DriveInfoApp\obj\Debug\net9.0\DriveInfoApp.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\DriveInfoApp\obj\Debug\net9.0\DriveInfoApp.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\DriveInfoApp\obj\Debug\net9.0\ref\DriveInfoApp.dll

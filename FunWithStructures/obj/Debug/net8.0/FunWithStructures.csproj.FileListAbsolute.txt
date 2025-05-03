@@ -1,0 +1,14 @@
+C:\Users\Алексей\Documents\C#\FunWithStructures\obj\Debug\net8.0\FunWithStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Documents\C#\FunWithStructures\obj\Debug\net8.0\FunWithStructures.AssemblyInfoInputs.cache
+C:\Users\Алексей\Documents\C#\FunWithStructures\obj\Debug\net8.0\FunWithStructures.AssemblyInfo.cs
+C:\Users\Алексей\Documents\C#\FunWithStructures\obj\Debug\net8.0\FunWithStructures.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Documents\C#\FunWithStructures\bin\Debug\net8.0\FunWithStructures.exe
+C:\Users\Алексей\Documents\C#\FunWithStructures\bin\Debug\net8.0\FunWithStructures.deps.json
+C:\Users\Алексей\Documents\C#\FunWithStructures\bin\Debug\net8.0\FunWithStructures.runtimeconfig.json
+C:\Users\Алексей\Documents\C#\FunWithStructures\bin\Debug\net8.0\FunWithStructures.dll
+C:\Users\Алексей\Documents\C#\FunWithStructures\bin\Debug\net8.0\FunWithStructures.pdb
+C:\Users\Алексей\Documents\C#\FunWithStructures\obj\Debug\net8.0\FunWithStructures.dll
+C:\Users\Алексей\Documents\C#\FunWithStructures\obj\Debug\net8.0\refint\FunWithStructures.dll
+C:\Users\Алексей\Documents\C#\FunWithStructures\obj\Debug\net8.0\FunWithStructures.pdb
+C:\Users\Алексей\Documents\C#\FunWithStructures\obj\Debug\net8.0\FunWithStructures.genruntimeconfig.cache
+C:\Users\Алексей\Documents\C#\FunWithStructures\obj\Debug\net8.0\ref\FunWithStructures.dll

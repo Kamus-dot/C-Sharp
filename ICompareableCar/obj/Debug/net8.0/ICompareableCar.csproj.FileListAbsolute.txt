@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\ICompareableCar\bin\Debug\net8.0\ICompareableCar.exe
+C:\Users\Алексей\OneDrive\Документы\C#\ICompareableCar\bin\Debug\net8.0\ICompareableCar.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\ICompareableCar\bin\Debug\net8.0\ICompareableCar.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\ICompareableCar\bin\Debug\net8.0\ICompareableCar.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ICompareableCar\bin\Debug\net8.0\ICompareableCar.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ICompareableCar\obj\Debug\net8.0\ICompareableCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\ICompareableCar\obj\Debug\net8.0\ICompareableCar.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ICompareableCar\obj\Debug\net8.0\ICompareableCar.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\ICompareableCar\obj\Debug\net8.0\ICompareableCar.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ICompareableCar\obj\Debug\net8.0\ICompareableCar.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ICompareableCar\obj\Debug\net8.0\refint\ICompareableCar.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ICompareableCar\obj\Debug\net8.0\ICompareableCar.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ICompareableCar\obj\Debug\net8.0\ICompareableCar.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ICompareableCar\obj\Debug\net8.0\ref\ICompareableCar.dll

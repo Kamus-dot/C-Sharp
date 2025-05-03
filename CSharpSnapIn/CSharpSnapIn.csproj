@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\CommonSnappableTypes\CommonSnappableTypes.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="сору $(TargetPath) $(SolutionDir)MyExtendableApp\$(OutDir)&#xD;&#xA;$(TargetFileName) /Y&#xD;&#xA;copy $(TargetPath) $(SolutionDir)MyExtendableApp\$(TargetFileName) /Y&#xD;" />
+  </Target>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\ImplicitAndExplicitConversions\bin\Debug\net9.0\ImplicitAndExplicitConversions.exe
+C:\Users\Алексей\OneDrive\Документы\C#\ImplicitAndExplicitConversions\bin\Debug\net9.0\ImplicitAndExplicitConversions.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\ImplicitAndExplicitConversions\bin\Debug\net9.0\ImplicitAndExplicitConversions.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\ImplicitAndExplicitConversions\bin\Debug\net9.0\ImplicitAndExplicitConversions.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ImplicitAndExplicitConversions\bin\Debug\net9.0\ImplicitAndExplicitConversions.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ImplicitAndExplicitConversions\obj\Debug\net9.0\ImplicitAndExplicitConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\ImplicitAndExplicitConversions\obj\Debug\net9.0\ImplicitAndExplicitConversions.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ImplicitAndExplicitConversions\obj\Debug\net9.0\ImplicitAndExplicitConversions.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\ImplicitAndExplicitConversions\obj\Debug\net9.0\ImplicitAndExplicitConversions.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ImplicitAndExplicitConversions\obj\Debug\net9.0\ImplicitAndExplicitConversions.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ImplicitAndExplicitConversions\obj\Debug\net9.0\refint\ImplicitAndExplicitConversions.dll
+C:\Users\Алексей\OneDrive\Документы\C#\ImplicitAndExplicitConversions\obj\Debug\net9.0\ImplicitAndExplicitConversions.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\ImplicitAndExplicitConversions\obj\Debug\net9.0\ImplicitAndExplicitConversions.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\ImplicitAndExplicitConversions\obj\Debug\net9.0\ref\ImplicitAndExplicitConversions.dll

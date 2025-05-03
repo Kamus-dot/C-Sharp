@@ -1,0 +1,11 @@
+C:\Users\Алексей\OneDrive\Документы\C#\CarLibrary\bin\Debug\net9.0\CarLibrary.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\CarLibrary\bin\Debug\net9.0\CarLibrary.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CarLibrary\bin\Debug\net9.0\CarLibrary.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CarLibrary\obj\Debug\net9.0\CarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\CarLibrary\obj\Debug\net9.0\CarLibrary.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CarLibrary\obj\Debug\net9.0\CarLibrary.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\CarLibrary\obj\Debug\net9.0\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\CarLibrary\obj\Debug\net9.0\CarLibrary.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CarLibrary\obj\Debug\net9.0\refint\CarLibrary.dll
+C:\Users\Алексей\OneDrive\Документы\C#\CarLibrary\obj\Debug\net9.0\CarLibrary.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\CarLibrary\obj\Debug\net9.0\ref\CarLibrary.dll

@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFileIO\bin\Debug\net9.0\SimpleFileIO.exe
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFileIO\bin\Debug\net9.0\SimpleFileIO.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFileIO\bin\Debug\net9.0\SimpleFileIO.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFileIO\bin\Debug\net9.0\SimpleFileIO.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFileIO\bin\Debug\net9.0\SimpleFileIO.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFileIO\obj\Debug\net9.0\SimpleFileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFileIO\obj\Debug\net9.0\SimpleFileIO.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFileIO\obj\Debug\net9.0\SimpleFileIO.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFileIO\obj\Debug\net9.0\SimpleFileIO.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFileIO\obj\Debug\net9.0\SimpleFileIO.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFileIO\obj\Debug\net9.0\refint\SimpleFileIO.dll
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFileIO\obj\Debug\net9.0\SimpleFileIO.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFileIO\obj\Debug\net9.0\SimpleFileIO.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\SimpleFileIO\obj\Debug\net9.0\ref\SimpleFileIO.dll

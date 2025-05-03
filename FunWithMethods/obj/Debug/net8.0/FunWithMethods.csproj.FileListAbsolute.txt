@@ -1,0 +1,14 @@
+C:\Users\Алексей\Documents\C#\FunWithMethods\bin\Debug\net8.0\FunWithMethods.exe
+C:\Users\Алексей\Documents\C#\FunWithMethods\bin\Debug\net8.0\FunWithMethods.deps.json
+C:\Users\Алексей\Documents\C#\FunWithMethods\bin\Debug\net8.0\FunWithMethods.runtimeconfig.json
+C:\Users\Алексей\Documents\C#\FunWithMethods\bin\Debug\net8.0\FunWithMethods.dll
+C:\Users\Алексей\Documents\C#\FunWithMethods\bin\Debug\net8.0\FunWithMethods.pdb
+C:\Users\Алексей\Documents\C#\FunWithMethods\obj\Debug\net8.0\FunWithMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Documents\C#\FunWithMethods\obj\Debug\net8.0\FunWithMethods.AssemblyInfoInputs.cache
+C:\Users\Алексей\Documents\C#\FunWithMethods\obj\Debug\net8.0\FunWithMethods.AssemblyInfo.cs
+C:\Users\Алексей\Documents\C#\FunWithMethods\obj\Debug\net8.0\FunWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Documents\C#\FunWithMethods\obj\Debug\net8.0\FunWithMethods.dll
+C:\Users\Алексей\Documents\C#\FunWithMethods\obj\Debug\net8.0\refint\FunWithMethods.dll
+C:\Users\Алексей\Documents\C#\FunWithMethods\obj\Debug\net8.0\FunWithMethods.pdb
+C:\Users\Алексей\Documents\C#\FunWithMethods\obj\Debug\net8.0\FunWithMethods.genruntimeconfig.cache
+C:\Users\Алексей\Documents\C#\FunWithMethods\obj\Debug\net8.0\ref\FunWithMethods.dll

@@ -1,0 +1,14 @@
+C:\Users\Алексей\OneDrive\Документы\C#\DirectoryApp\bin\Debug\net9.0\DirectoryApp.exe
+C:\Users\Алексей\OneDrive\Документы\C#\DirectoryApp\bin\Debug\net9.0\DirectoryApp.deps.json
+C:\Users\Алексей\OneDrive\Документы\C#\DirectoryApp\bin\Debug\net9.0\DirectoryApp.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Документы\C#\DirectoryApp\bin\Debug\net9.0\DirectoryApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\DirectoryApp\bin\Debug\net9.0\DirectoryApp.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\DirectoryApp\obj\Debug\net9.0\DirectoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Документы\C#\DirectoryApp\obj\Debug\net9.0\DirectoryApp.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\DirectoryApp\obj\Debug\net9.0\DirectoryApp.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Документы\C#\DirectoryApp\obj\Debug\net9.0\DirectoryApp.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Документы\C#\DirectoryApp\obj\Debug\net9.0\DirectoryApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\DirectoryApp\obj\Debug\net9.0\refint\DirectoryApp.dll
+C:\Users\Алексей\OneDrive\Документы\C#\DirectoryApp\obj\Debug\net9.0\DirectoryApp.pdb
+C:\Users\Алексей\OneDrive\Документы\C#\DirectoryApp\obj\Debug\net9.0\DirectoryApp.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Документы\C#\DirectoryApp\obj\Debug\net9.0\ref\DirectoryApp.dll
